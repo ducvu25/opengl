@@ -1,0 +1,8 @@
+﻿  Source.cpp
+triangle-similar.obj : error LNK2005: "void __cdecl key_callback(struct GLFWwindow *,int,int,int,int)" (?key_callback@@YAXPEAUGLFWwindow@@HHHH@Z) already defined in Source.obj
+triangle-similar.obj : error LNK2005: main already defined in Source.obj
+triangle-similar.obj : error LNK2005: "struct GLFWwindow * window" (?window@@3PEAUGLFWwindow@@EA) already defined in Source.obj
+triangle-similar.obj : error LNK2005: "char const * const vertexShaderSource" (?vertexShaderSource@@3PEBDEB) already defined in Source.obj
+triangle-similar.obj : error LNK2005: "char const * const fragmentShaderSource" (?fragmentShaderSource@@3PEBDEB) already defined in Source.obj
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+D:\D? ho? 1\Practice\triangle-similar\x64\Debug\triangle-similar.exe : fatal error LNK1169: one or more multiply defined symbols found

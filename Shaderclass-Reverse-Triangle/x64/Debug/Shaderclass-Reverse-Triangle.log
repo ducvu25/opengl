@@ -1,0 +1,4 @@
+﻿  Shaderclass-Reverse-Triangle.cpp
+D:\Đồ hoạ 1\Paractices\Shaderclass-Reverse-Triangle\Shader.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Đồ hoạ 1\Paractices\Shaderclass-Reverse-Triangle\Shader.h(43,34): warning C4101: 'e': unreferenced local variable
+  Shaderclass-Reverse-Triangle.vcxproj -> D:\Đồ hoạ 1\Paractices\Shaderclass-Reverse-Triangle\x64\Debug\Shaderclass-Reverse-Triangle.exe

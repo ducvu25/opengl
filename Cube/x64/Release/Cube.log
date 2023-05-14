@@ -1,0 +1,9 @@
+﻿  Cube.cpp
+D:\Graphic-computer\Paractices\Cube\Shader.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Graphic-computer\Paractices\Cube\Shader.h(43,34): warning C4101: 'e': unreferenced local variable
+  Generating code
+  1 of 395 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Cube.vcxproj -> D:\Graphic-computer\Paractices\Cube\x64\Release\Cube.exe

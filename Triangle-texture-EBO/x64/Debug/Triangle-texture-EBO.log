@@ -1,0 +1,9 @@
+﻿  Shader.cpp
+D:\Graphic-computer\Paractices\Triangle-texture-EBO\Shader.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Graphic-computer\Paractices\Triangle-texture-EBO\Shader.h(43,34): warning C4101: 'e': unreferenced local variable
+  Triangle-texture-EBO.cpp
+D:\Graphic-computer\Paractices\Triangle-texture-EBO\Shader.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Graphic-computer\Paractices\Triangle-texture-EBO\Shader.h(43,34): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Triangle-texture-EBO.vcxproj -> D:\Graphic-computer\Paractices\Triangle-texture-EBO\x64\Debug\Triangle-texture-EBO.exe

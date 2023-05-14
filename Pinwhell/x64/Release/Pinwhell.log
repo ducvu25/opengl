@@ -1,0 +1,8 @@
+﻿  Pinwhell.cpp
+D:\Graphic-computer\Paractices\Pinwhell\Shader.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Graphic-computer\Paractices\Pinwhell\Shader.h(43,34): warning C4101: 'e': unreferenced local variable
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 387 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Pinwhell.vcxproj -> D:\Graphic-computer\Paractices\Pinwhell\x64\Release\Pinwhell.exe
